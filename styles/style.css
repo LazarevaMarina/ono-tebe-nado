@@ -91,6 +91,7 @@
 .cover__description {
   display: flex;
   margin: 0 25px 0 56px;
+  gap: 20px;
   justify-content: space-between;
   z-index: 1;
 }
@@ -103,8 +104,8 @@
   font-weight: 400;
   font-size: 22px;
   line-height: 26px;
-  margin: 10px 0 0 20px;
-  word-spacing: 22px;
+  margin: 10px 0px 0 20px;
+  word-spacing: 18px;
   z-index: 1;
 }
 
@@ -166,6 +167,7 @@
   font-size: 22px;
   font-weight: 700;
   text-decoration: underline;
+  text-transform: uppercase;
   z-index: 1;
 }
 
