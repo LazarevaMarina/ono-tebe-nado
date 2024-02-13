@@ -44,6 +44,7 @@
 .address {
   font-style: normal;
   text-align: left;
+  line-height: 24px;
 }
 
 .cover {
@@ -245,10 +246,6 @@
   font-size: 18px;
   margin: 0 50px 88px 50px;
   gap: 140px;
-}
-
-.address {
-  line-height: 24px;
 }
 
 .footer__menu {
